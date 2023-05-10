@@ -15,3 +15,4 @@ const Usuario = db.define('usuarios', {
 // Usuario.sync({force:true})
 
 module.exports = Usuario
+
